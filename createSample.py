@@ -23,7 +23,7 @@ def main():
     print("start")
     fig = plt.figure()
 
-    sampleCount = 200
+    sampleCount = 50
 
     xs = np.random.randn(sampleCount)
     ys = np.random.randn(sampleCount)
